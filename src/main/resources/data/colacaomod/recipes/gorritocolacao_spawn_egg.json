@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "colacaomod:colacao_bucket"
+        },
+        {
+            "item": "leather_helmet"
+        }
+    ],
+    "result": {
+        "item": "colacaomod:gorritocolacao_spawn_egg"
+    }
+}

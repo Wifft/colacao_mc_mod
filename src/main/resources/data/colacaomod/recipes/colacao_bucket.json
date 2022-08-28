@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "milk_bucket"
+        },
+        {
+            "item": "cocoa_beans"
+        }
+    ],
+    "result": {
+        "item": "colacaomod:colacao_bucket"
+    }
+}
